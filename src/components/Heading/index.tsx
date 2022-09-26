@@ -9,7 +9,7 @@ interface Props extends ViewProps {
 
 export function Heading({title, subtitle, ...rest} : Props) {
   return (
-    <View style={styles.container}>
+    <View style={styles.container} {...rest}>
       <Text style={styles.title}>
         {title}
       </Text>
