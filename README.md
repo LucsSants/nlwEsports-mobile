@@ -23,7 +23,9 @@ The purpose of the App it's to be an link between players that wants to find a d
 </p>
 
 # How to run 🚀
-* You will need to have Expo SLI installed*
+* You will need to have Expo SLI installed
 - Clone the repository
 - Install dependencies with `yarn` or `npm`
-- Start the server with `npm run dev`
+- Start the server with `expo start`
+- Open on your phone or emulator using expo.
+
